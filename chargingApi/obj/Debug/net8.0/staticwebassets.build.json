@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "QM9HB0QS8DP5yMuXsid9G3MuohP8oU2R8upmOeXdnig=",
+  "Source": "chargingApi",
+  "BasePath": "_content/chargingApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
